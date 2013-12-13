@@ -1,0 +1,12 @@
+﻿淘宝开发平台网址 http://open.taobao.com/index.htm
+
+1 我们要做的是什么软件？ 
+  猛戳后面的链接http://open.taobao.com/doc/detail.htm?id=101569
+2 我们也就是这些服务商们，现在需要了解的东西：
+  如，资质要求、appkey等 都在这个链接 http://open.taobao.com/doc/detail.htm?id=101163
+  哦对了，我对里面的关于回调地址的部分不是很了解，亲们可以着重看看呢！
+3 还有什么比钱更靠谱的东西呢？如果你想了解这个东西怎么赚钱和分钱的，
+  还是过来看看吧。 http://open.taobao.com/doc/detail.htm?spm=0.0.0.0.4t8mUS&id=1045
+4 关于沙箱，这里有个教程或许可以给我们一个直观的认识。
+  http://dev.open.taobao.com/bbs/read.php?tid=19744
+5 
