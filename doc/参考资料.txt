@@ -16,3 +16,27 @@
   
 5 基于TOP协议的登录授权方式介绍
   http://open.taobao.com/doc/detail.htm?id=105
+  
+6 商品的SKU(Stock Keeping Unit(库存量单位)),很简单根据帖子纠正下自己理解错误的地方就好了
+  http://bangpai.taobao.com/group/thread/14277161-264876570.htm
+  
+7 我们的数据库需要保存哪些东西？Sessionkey是我们需要保存的，这个东西是什么？请看下面的链接
+  http://bangpai.taobao.com/group/thread/14277161-264848384.htm
+  
+8 关于JAVA开发，我们可以看下人家做的小例子，
+  http://bangpai.taobao.com/group/thread/14277161-264836650.htm
+  
+9 淘宝帮派，营销开发者之家也提供了很多资料，我们也可以去看看
+  http://bangpai.taobao.com/group/14277161.htm?spm=0.0.0.0.UWW4CY
+  
+10 API调用指南，http://bangpai.taobao.com/group/14277161.htm?spm=0.0.0.0.UWW4CY
+
+11 沙箱 http://bangpai.taobao.com/group/thread/14277161-265171904.htm
+
+12 如何自测，http://bangpai.taobao.com/group/thread/14277161-265171897.htm
+
+13 淘宝API返回的数据分json和xml两种格式，可以指定返回格式（json和xml中的一种）
+   下面这个帖子里面是一个PAI返回的xml格式的数据，可以看看，对我们有很大的帮助。
+   http://dev.open.taobao.com/bbs/read.php?tid=22564&fpage=2。
+   
+14 http://container.open.taobao.com/containerappkey={appkey} 这个是怎么用的？
