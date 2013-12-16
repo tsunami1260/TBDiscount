@@ -40,3 +40,6 @@
    http://dev.open.taobao.com/bbs/read.php?tid=22564&fpage=2。
    
 14 http://container.open.taobao.com/containerappkey={appkey} 这个是怎么用的？
+   传说中只要有这个东西，我们就可以敲开客户的门了，只要客户同意，我们就可以操作了。
+   
+15 
